@@ -74,13 +74,18 @@ Check out the project on GitHub: [Sugar-CF-Creator](https://github.com/Sugarcube
 Happy coding! 🚀😊
 ```
 
+
 ---                                         
+
 #Made with ❤️ by SugarCube                  
+
 ---
 
 ---
+
 ## ☕ Support Me
 If you like this project, consider buying me
  a coffee!
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/sugarcube08)   
+
 ---
