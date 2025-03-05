@@ -73,9 +73,7 @@ Check out the project on GitHub: [Sugar-CF-Creator](https://github.com/Sugarcube
 ```sh
 Happy coding! 🚀😊
 ```
-
-
----                                         
+---
 ## Made with ❤️ by SugarCube                  
 
 ---
